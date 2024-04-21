@@ -3,6 +3,7 @@ College Hackathon for Ride-Hack 2024
 
 
 ### About the project
+---
 Creating a unified e-pharmacy platform that provides customers with cost-effective options for a wide range of medications. 
 
 Our objective is to establish an **all-inclusive** online pharmacy platform that acts as a convenient solution for users' medication requirements. This platform enables users to easily explore and buy a diverse selection of medications at competitive prices. 
